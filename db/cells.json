@@ -1,0 +1,1301 @@
+[{
+  "_id": "143881",
+  "address": "cell_143881",
+  "LAC": "312",
+  "range": 1167,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871985,
+      32.017122
+    ]
+  }
+},{
+  "_id": "16133",
+  "address": "cell_16133",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872421,
+      32.016907
+    ]
+  }
+},{
+  "_id": "56302",
+  "address": "cell_56302",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872859,
+      32.016802
+    ]
+  }
+},{
+  "_id": "3272",
+  "address": "cell_3272",
+  "LAC": "52102",
+  "range": 1990,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873304,
+      32.016685
+    ]
+  }
+},{
+  "_id": "16062",
+  "address": "cell_16062",
+  "LAC": "52102",
+  "range": 1111,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872802,
+      32.017991
+    ]
+  }
+},{
+  "_id": "145315",
+  "address": "cell_145315",
+  "LAC": "312",
+  "range": 2134,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873279,
+      32.018192
+    ]
+  }
+},{
+  "_id": "131112095",
+  "address": "cell_131112095",
+  "LAC": "312",
+  "range": 3328,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873249,
+      32.018563
+    ]
+  }
+},{
+  "_id": "1359",
+  "address": "cell_1359",
+  "LAC": "52102",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873074,
+      32.019685
+    ]
+  }
+},{
+  "_id": "2360",
+  "address": "cell_2360",
+  "LAC": "52102",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872749,
+      32.020094
+    ]
+  }
+},{
+  "_id": "131725616",
+  "address": "cell_131725616",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871784,
+      32.017899
+    ]
+  }
+},{
+  "_id": "131135862",
+  "address": "cell_131135862",
+  "LAC": "300",
+  "range": 1929,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871872,
+      32.018579
+    ]
+  }
+},{
+  "_id": "663719",
+  "address": "cell_663719",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870678,
+      32.016945
+    ]
+  }
+},{
+  "_id": "39590147",
+  "address": "cell_39590147",
+  "LAC": "45113",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.87034,
+      32.017243
+    ]
+  }
+},{
+  "_id": "131725620",
+  "address": "cell_131725620",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870747,
+      32.017237
+    ]
+  }
+},{
+  "_id": "3360",
+  "address": "cell_3360",
+  "LAC": "52102",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870682,
+      32.017445
+    ]
+  }
+},{
+  "_id": "173638",
+  "address": "cell_173638",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871047973633,
+      32.017593383789
+    ]
+  }
+},{
+  "_id": "143876",
+  "address": "cell_143876",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870878,
+      32.017616
+    ]
+  }
+},{
+  "_id": "10553",
+  "address": "cell_10553",
+  "LAC": "25220",
+  "range": 1431,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870908,
+      32.017859
+    ]
+  }
+},{
+  "_id": "131725619",
+  "address": "cell_131725619",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870457,
+      32.018162
+    ]
+  }
+},{
+  "_id": "11502",
+  "address": "cell_11502",
+  "LAC": "1500",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866025,
+      32.018027
+    ]
+  }
+},{
+  "_id": "10813441",
+  "address": "cell_10813441",
+  "LAC": "54122",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.86581,
+      32.018137
+    ]
+  }
+},{
+  "_id": "662720",
+  "address": "cell_662720",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866142,
+      32.018398
+    ]
+  }
+},{
+  "_id": "11251293",
+  "address": "cell_11251293",
+  "LAC": "54122",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866419,
+      32.018549
+    ]
+  }
+},{
+  "_id": "1436674",
+  "address": "cell_1436674",
+  "LAC": "103",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866866,
+      32.018631
+    ]
+  }
+},{
+  "_id": "131133024",
+  "address": "cell_131133024",
+  "LAC": "300",
+  "range": 5741,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867295,
+      32.018679
+    ]
+  }
+},{
+  "_id": "12803",
+  "address": "cell_12803",
+  "LAC": "750",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866785,
+      32.016909
+    ]
+  }
+},{
+  "_id": "675422",
+  "address": "cell_675422",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867048,
+      32.017199
+    ]
+  }
+},{
+  "_id": "659514",
+  "address": "cell_659514",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867296,
+      32.017493
+    ]
+  }
+},{
+  "_id": "10773",
+  "address": "cell_10773",
+  "LAC": "750",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866928100586,
+      32.017593383789
+    ]
+  }
+},{
+  "_id": "131678099",
+  "address": "cell_131678099",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866673,
+      32.017704
+    ]
+  }
+},{
+  "_id": "131088114",
+  "address": "cell_131088114",
+  "LAC": "300",
+  "range": 1907,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.866243,
+      32.017673
+    ]
+  }
+},{
+  "_id": "10844161",
+  "address": "cell_10844161",
+  "LAC": "54122",
+  "range": 1533,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867471,
+      32.016406
+    ]
+  }
+},{
+  "_id": "11881",
+  "address": "cell_11881",
+  "LAC": "25220",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867629,
+      32.01649
+    ]
+  }
+},{
+  "_id": "56031",
+  "address": "cell_56031",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867802,
+      32.016874
+    ]
+  }
+},{
+  "_id": "56093",
+  "address": "cell_56093",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868301391602,
+      32.018966674805
+    ]
+  }
+},{
+  "_id": "0",
+  "address": "cell_0",
+  "LAC": "300",
+  "range": 7588,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868535,
+      32.018942
+    ]
+  }
+},{
+  "_id": "131135828",
+  "address": "cell_131135828",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867681,
+      32.016166
+    ]
+  }
+},{
+  "_id": "131135414",
+  "address": "cell_131135414",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.867726,
+      32.015913
+    ]
+  }
+},{
+  "_id": "141848",
+  "address": "cell_141848",
+  "LAC": "302",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868301,
+      32.01622
+    ]
+  }
+},{
+  "_id": "131717862",
+  "address": "cell_131717862",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868717,
+      32.016422
+    ]
+  }
+},{
+  "_id": "131128232",
+  "address": "cell_131128232",
+  "LAC": "301",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869107,
+      32.01681
+    ]
+  }
+},{
+  "_id": "143875",
+  "address": "cell_143875",
+  "LAC": "302",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868988,
+      32.017136
+    ]
+  }
+},{
+  "_id": "131128303",
+  "address": "cell_131128303",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869003,
+      32.017247
+    ]
+  }
+},{
+  "_id": "142573",
+  "address": "cell_142573",
+  "LAC": "302",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868988,
+      32.017593
+    ]
+  }
+},{
+  "_id": "131134456",
+  "address": "cell_131134456",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869526,
+      32.017666
+    ]
+  }
+},{
+  "_id": "143880",
+  "address": "cell_143880",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869554,
+      32.018626
+    ]
+  }
+},{
+  "_id": "131128094",
+  "address": "cell_131128094",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869911,
+      32.018908
+    ]
+  }
+},{
+  "_id": "56122",
+  "address": "cell_56122",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868301,
+      32.019653
+    ]
+  }
+},{
+  "_id": "131128231",
+  "address": "cell_131128231",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.868794,
+      32.019886
+    ]
+  }
+},{
+  "_id": "131723895",
+  "address": "cell_131723895",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869061,
+      32.019711
+    ]
+  }
+},{
+  "_id": "143872",
+  "address": "cell_143872",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869186,
+      32.019863
+    ]
+  }
+},{
+  "_id": "1439489",
+  "address": "cell_1439489",
+  "LAC": "103",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869424,
+      32.019627
+    ]
+  }
+},{
+  "_id": "56121",
+  "address": "cell_56121",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.86999,
+      32.019524
+    ]
+  }
+},{
+  "_id": "56231",
+  "address": "cell_56231",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.869955,
+      32.019805
+    ]
+  }
+},{
+  "_id": "664717",
+  "address": "cell_664717",
+  "LAC": "51120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872421264648,
+      32.012100219727
+    ]
+  }
+},{
+  "_id": "131135412",
+  "address": "cell_131135412",
+  "LAC": "300",
+  "range": 1458,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872153,
+      32.012251
+    ]
+  }
+},{
+  "_id": "141851",
+  "address": "cell_141851",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871047973633,
+      32.012100219727
+    ]
+  }
+},{
+  "_id": "11159043",
+  "address": "cell_11159043",
+  "LAC": "54122",
+  "range": 3599,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870743,
+      32.012438
+    ]
+  }
+},{
+  "_id": "38783235",
+  "address": "cell_38783235",
+  "LAC": "45113",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871545,
+      32.012484
+    ]
+  }
+},{
+  "_id": "131128096",
+  "address": "cell_131128096",
+  "LAC": "300",
+  "range": 3038,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871199,
+      32.012663
+    ]
+  }
+},{
+  "_id": "131132192",
+  "address": "cell_131132192",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.871552,
+      32.012882
+    ]
+  }
+},{
+  "_id": "131128386",
+  "address": "cell_131128386",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870771,
+      32.013083
+    ]
+  }
+},{
+  "_id": "131132193",
+  "address": "cell_131132193",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870998,
+      32.013328
+    ]
+  }
+},{
+  "_id": "664718",
+  "address": "cell_664718",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870454,
+      32.013245
+    ]
+  }
+},{
+  "_id": "141849",
+  "address": "cell_141849",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.870289,
+      32.013436
+    ]
+  }
+},{
+  "_id": "38758658",
+  "address": "cell_38758658",
+  "LAC": "45113",
+  "range": 1360,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.87283,
+      32.012073
+    ]
+  }
+},{
+  "_id": "1443330",
+  "address": "cell_1443330",
+  "LAC": "103",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873306,
+      32.012211
+    ]
+  }
+},{
+  "_id": "145108",
+  "address": "cell_145108",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873794555664,
+      32.012100219727
+    ]
+  }
+},{
+  "_id": "39590146",
+  "address": "cell_39590146",
+  "LAC": "45113",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873261,
+      32.012397
+    ]
+  }
+},{
+  "_id": "131722019",
+  "address": "cell_131722019",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873146,
+      32.012508
+    ]
+  }
+},{
+  "_id": "2358",
+  "address": "cell_2358",
+  "LAC": "52102",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872734,
+      32.012604
+    ]
+  }
+},{
+  "_id": "131135415",
+  "address": "cell_131135415",
+  "LAC": "300",
+  "range": 6783,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873406,
+      32.01292
+    ]
+  }
+},{
+  "_id": "131718205",
+  "address": "cell_131718205",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873264,
+      32.013077
+    ]
+  }
+},{
+  "_id": "146045",
+  "address": "cell_146045",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872421264648,
+      32.013473510742
+    ]
+  }
+},{
+  "_id": "56564",
+  "address": "cell_56564",
+  "LAC": "2141",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.872352,
+      32.013658
+    ]
+  }
+},{
+  "_id": "663718",
+  "address": "cell_663718",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873488,
+      32.013172
+    ]
+  }
+},{
+  "_id": "16093",
+  "address": "cell_16093",
+  "LAC": "2141",
+  "range": 1208,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873744,
+      32.012543
+    ]
+  }
+},{
+  "_id": "16351",
+  "address": "cell_16351",
+  "LAC": "2141",
+  "range": 1430,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874423,
+      32.012202
+    ]
+  }
+},{
+  "_id": "1357",
+  "address": "cell_1357",
+  "LAC": "52102",
+  "range": 1720,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874379,
+      32.012384
+    ]
+  }
+},{
+  "_id": "1447939",
+  "address": "cell_1447939",
+  "LAC": "103",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874802,
+      32.012276
+    ]
+  }
+},{
+  "_id": "10867201",
+  "address": "cell_10867201",
+  "LAC": "54122",
+  "range": 3174,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875074,
+      32.01235
+    ]
+  }
+},{
+  "_id": "25022",
+  "address": "cell_25022",
+  "LAC": "2141",
+  "range": 6285,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875297,
+      32.012522
+    ]
+  }
+},{
+  "_id": "131128567",
+  "address": "cell_131128567",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875012,
+      32.01263
+    ]
+  }
+},{
+  "_id": "146043",
+  "address": "cell_146043",
+  "LAC": "312",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875168,
+      32.012787
+    ]
+  }
+},{
+  "_id": "131128566",
+  "address": "cell_131128566",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874451,
+      32.012883
+    ]
+  }
+},{
+  "_id": "17067",
+  "address": "cell_17067",
+  "LAC": "52102",
+  "range": 1000,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874711,
+      32.013072
+    ]
+  }
+},{
+  "_id": "11161603",
+  "address": "cell_11161603",
+  "LAC": "54122",
+  "range": 1000,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874386,
+      32.013335
+    ]
+  }
+},{
+  "_id": "664599",
+  "address": "cell_664599",
+  "LAC": "53110",
+  "range": 6086,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874415,
+      32.013892
+    ]
+  }
+},{
+  "_id": "662460",
+  "address": "cell_662460",
+  "LAC": "53120",
+  "range": 1832,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.873725,
+      32.013841
+    ]
+  }
+},{
+  "_id": "131677910",
+  "address": "cell_131677910",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875523,
+      32.010847
+    ]
+  }
+},{
+  "_id": "131132032",
+  "address": "cell_131132032",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.87516784668,
+      32.010726928711
+    ]
+  }
+},{
+  "_id": "131718255",
+  "address": "cell_131718255",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874798,
+      32.010811
+    ]
+  }
+},{
+  "_id": "131128431",
+  "address": "cell_131128431",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874583,
+      32.010059
+    ]
+  }
+},{
+  "_id": "16154",
+  "address": "cell_16154",
+  "LAC": "2141",
+  "range": 1483,
+  "type": "GSM",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875071,
+      32.010076
+    ]
+  }
+},{
+  "_id": "10728962",
+  "address": "cell_10728962",
+  "LAC": "54122",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874947,
+      32.009901
+    ]
+  }
+},{
+  "_id": "700405",
+  "address": "cell_700405",
+  "LAC": "53120",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875946,
+      32.009709
+    ]
+  }
+},{
+  "_id": "143658",
+  "address": "cell_143658",
+  "LAC": "302",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.875168,
+      32.009354
+    ]
+  }
+},{
+  "_id": "1444609",
+  "address": "cell_1444609",
+  "LAC": "101",
+  "range": 1022,
+  "type": "LTE",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.874566,
+      32.009231
+    ]
+  }
+},{
+  "_id": "131128305",
+  "address": "cell_131128305",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.876541137695,
+      32.010726928711
+    ]
+  }
+},{
+  "_id": "131721860",
+  "address": "cell_131721860",
+  "LAC": "300",
+  "range": 1000,
+  "type": "UMTS",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      35.876214,
+      32.011402
+    ]
+  }
+}]
